@@ -1,0 +1,7 @@
+﻿  Lab1HangmanGameFinal.cpp
+C:\Users\Jay\Desktop\Test\Lab1HangmanGameFinal\Lab1HangmanGameFinal.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jay\Desktop\Test\Lab1HangmanGameFinal\Lab1HangmanGameFinal.cpp(149,25): warning C4129: 'H': unrecognized character escape sequence
+C:\Users\Jay\Desktop\Test\Lab1HangmanGameFinal\Lab1HangmanGameFinal.cpp(210,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jay\Desktop\Test\Lab1HangmanGameFinal\Lab1HangmanGameFinal.cpp(220,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jay\Desktop\Test\Lab1HangmanGameFinal\Lab1HangmanGameFinal.cpp(230,23): warning C4018: '<': signed/unsigned mismatch
+  Lab1HangmanGameFinal.vcxproj -> C:\Users\Jay\Desktop\Test\Lab1HangmanGameFinal\Debug\Lab1HangmanGameFinal.exe
